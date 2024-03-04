@@ -1,2 +1,4 @@
-{ "feature":"cool feature"
+{
+    "bug_fixed": "critical",
+    "feature":"cool feature"
 }
